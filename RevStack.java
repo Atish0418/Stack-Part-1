@@ -34,7 +34,7 @@ public class RevStack {
         s.push(2);
         s.push(3);
 
-        printStack(s);
+    
         reverseStack(s);
         printStack(s);
 
